@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbfd952e95be4884db1f056a6b569371
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoinsManager: {fileID: 1753897025103107731, guid: ea4106cad24643b4a9b75fab84771090, type: 3}
+  - cameraPosition: {instanceID: 0}
+  - scoreUI: {fileID: 1780509010389569275, guid: 27549b369424cda44b7e740c39962e46, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
